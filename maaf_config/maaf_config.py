@@ -21,3 +21,5 @@ elif RUN_MODE == SIM:
 
 # >>>>>>>>>> ORGANISATION CONFIGURATION FILE
 organisation_file_path = "src/icare_alloc_config/icare_alloc_config/__cache/__CoHoMa_organisation_model_v1.json"
+
+organisation_folder_path = "src/icare_alloc_config/icare_alloc_config"
